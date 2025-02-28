@@ -2,4 +2,4 @@
 
 This repository is a fork of the [Phaser Vite TypeScript Template](https://github.com/phaserjs/template-vite-ts) provided by Phaser. 
 
-This project is used as a template to make it easier to follow along with the instructions provided in the [Phaser MkDocs Documentation Project](https://github.com/ndgeniebla/phaser-mkdocs).
+This project is starter code that provides all the necessary assets for the [Phaser MkDocs Documentation Project](https://github.com/ndgeniebla/phaser-mkdocs).
